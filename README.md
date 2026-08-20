@@ -1,33 +1,15 @@
 🎮 YOSHI-GAMES
 
-Projeto desenvolvido em Python para praticar lógica de programação através de um sistema simples de gerenciamento de jogadores.
-
-O programa permite cadastrar jogadores, adicionar pontos, consultar participantes e visualizar um ranking.
+Projeto simples desenvolvido em Python para praticar lógica de programação.
 
 🚀 Funcionalidades
-👤 Cadastro de jogadores
-📋 Listagem de jogadores
-⭐ Adição de pontos
-🏆 Ranking ordenado por pontuação
-🔎 Busca de jogadores pelo nome
-⚠️ Tratamento de erros com try/except
+Cadastro de jogadores
+Adição de pontos
+Ranking de jogadores
+Busca por nome
+Listagem de jogadores
 🧠 Conceitos utilizados
-Listas
-Dicionários
-while
-for
-if / elif / else
-Funções com def
-range() e len()
-try / except
-sorted()
-lambda
-Manipulação de dados em listas e dicionários
-▶️ Como executar
 
-Tenha o Python instalado e execute:
+listas • dicionários • while • for • if/else • def • try/except • sorted
 
-python yoshi_games.py
-📚 Objetivo
-
-O YOSHI-GAMES foi criado como projeto de estudo para colocar em prática conceitos fundamentais de Python e desenvolver lógica de programação.
+Projeto criado para praticar e evoluir meus conhecimentos em Python. 🐍
